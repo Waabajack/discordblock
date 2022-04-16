@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        Discord Hide Blocked Messages
-// @namespace   https://github.com/Multarix/Discord-Hide-Blocked-Messages
+// @name        discordblock
+// @namespace   https://github.com/Waabajack/discordblock
 // @match       https://com.discord/*
-// @downloadURL https://raw.githubusercontent.com/Multarix/Discord-Hide-Blocked-Messages/master/script.user.js
-// @homepageURL https://github.com/Multarix/Discord-Hide-Blocked-Messages
-// @supportURL  https://github.com/Multarix/Discord-Hide-Blocked-Messages/issues
+// @downloadURL https://github.com/Waabajack/discordblock/blob/main/script.user.js
+// @homepageURL https://github.com/Waabajack/discordblock
+// @supportURL  https://github.com/Waabajack/discordblock/issues
 // @grant       none
 // @version     1.0
 // @author      Anonymous
