@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        discordblock
 // @namespace   https://github.com/Waabajack/discordblock
-// @match       https://com.discord/*
+// @match       com.discord/*
 // @downloadURL https://github.com/Waabajack/discordblock/raw/main/script.user.js
 // @homepageURL https://github.com/Waabajack/discordblock
 // @supportURL  https://github.com/Waabajack/discordblock/issues
